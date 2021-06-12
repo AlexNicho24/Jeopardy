@@ -1,0 +1,5 @@
+not b and not(a or b) not a where, as a = false and b =true
+resolution of range(10,0,-2)
+scores = [("Moe",1000)] print 1000
+"100" * 5
+mystring = “Hello”. What would be the output if we assign mystring[0] = “M”?

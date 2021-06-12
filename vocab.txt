@@ -1,0 +1,5 @@
+variable name listed in the parenthesis during function definition
+considered to be mutable
+unbounded number of iterations
+known for iterations and uses a counter
+are used to step into the multidimensional structure

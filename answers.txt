@@ -1,0 +1,15 @@
+false
+[10,8,6,4,2,0]
+print(scores[0][1])
+100100100100100
+error
+syntax
+indexError
+zerodivisionerror
+runtimeError
+ioerror
+default parameter
+list
+while loop
+for loop
+nested sequence
